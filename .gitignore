@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.*
+
+# Keep an example environment file if you create one
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+
+
+# Streamlit secrets
+streamlit/secrets.toml
+.streamlit/secrets.toml
